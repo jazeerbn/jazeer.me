@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://jazeer.me/", 
   author: "Jazeer",
-  profile: "https://satnaing.dev/",
+  profile: "https://github.com/jazeerbn/jazeer.me",
   desc: "Technical deep dives and software engineering thoughts.",
-  title: "Jazeer.me",
+  title: "jazeer.me",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
