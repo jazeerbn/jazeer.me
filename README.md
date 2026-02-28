@@ -25,11 +25,10 @@ The goal of this project is to create a fast, minimal, and content-focused space
    ```bash
    git clone [https://github.com/jazeerbn/jazeer.me.git](https://github.com/jazeerbn/jazeer.me.git)
    npm install
-Start Dev Server:
+2. **Start Dev Server**
+   ```bash
+   npm run dev
 
-  ```bash
-  npm run dev
-  
 📄 License
 This project is licensed under the MIT License.
 
