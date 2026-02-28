@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Normal human, husband, father, son, brother, friend, and a lot more going with the flow of life. 
+At my core, I’m a husband, father, son, brother, and friend, simply trying to go with the flow of life.
 
 I’m just someone who is genuinely passionate about understanding how things work—from the big picture of a software system down to the deep technical details inside the code. I’ve spent quite a bit of time working in different projects that affect people's daily lives, like Healthcare, Aviation, and Automotive. I also enjoy the challenge in the area of Secure Connectivity, making sure the digital world stays safe while it grows.
 

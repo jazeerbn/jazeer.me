@@ -1,6 +1,6 @@
 # jazeer.me
 
-This is the source code for my personal technical blog and digital home, live at [jazeer-me.vercel.app](https://jazeer-me.vercel.app/).
+This is the source code for my personal technical blog and digital home, live at [jazeer.me](https://jazeer.me/).
 
 The goal of this project is to create a fast, minimal, and content-focused space to share thoughts on software architecture, distributed systems, and the "big picture" of technology.
 
@@ -27,8 +27,9 @@ The goal of this project is to create a fast, minimal, and content-focused space
    npm install
 Start Dev Server:
 
-Bash
-npm run dev
+  ```bash
+  npm run dev
+  
 📄 License
 This project is licensed under the MIT License.
 
